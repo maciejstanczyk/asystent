@@ -1,2 +1,2 @@
-uru auto
-ruby asystent.rb
+call uru auto
+call ruby asystent.rb
