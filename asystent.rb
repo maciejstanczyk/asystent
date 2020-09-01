@@ -1,1 +1,1 @@
-puts "Asystent - Hello World"
+puts "Asystent - Hello World - Wersja z autoupdatem"
